@@ -1,0 +1,10 @@
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\bin\Debug\ComputerConstructor.exe.config
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\bin\Debug\ComputerConstructor.exe
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\bin\Debug\ComputerConstructor.pdb
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.MainForm.resources
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.Properties.Resources.resources
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.exe
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.pdb
+C:\Users\Саша\source\repos\ComputerConstructor\ComputerConstructor\obj\Debug\ComputerConstructor.csprojAssemblyReference.cache
