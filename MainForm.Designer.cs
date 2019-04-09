@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             this.btStartProgram = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             this.MainRefresh = new System.Windows.Forms.Timer(this.components);
             this.CheckEnd = new System.Windows.Forms.Timer(this.components);
             this.btnComp = new System.Windows.Forms.Button();
@@ -45,15 +44,6 @@
             this.btStartProgram.Text = "Start";
             this.btStartProgram.UseVisualStyleBackColor = true;
             this.btStartProgram.Click += new System.EventHandler(this.BtStartProgram_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(144, 17);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
             // 
             // MainRefresh
             // 
@@ -84,7 +74,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnComp);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.btStartProgram);
             this.Name = "MainForm";
             this.Text = "Form1";
@@ -95,14 +84,12 @@
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseUp);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.Button btStartProgram;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Timer MainRefresh;
         private System.Windows.Forms.Timer CheckEnd;
         private System.Windows.Forms.Button btnComp;

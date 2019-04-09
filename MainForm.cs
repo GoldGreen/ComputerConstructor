@@ -291,10 +291,6 @@ namespace ComputerConstructor
 
         private void MainForm_MouseClick(object sender, MouseEventArgs e)
         {
-            label1.Text = FunctionsBGD.GetCursorCoordinatePoint().ToString();
-
-
-
             if (!UserElements.IsNull() && (e.Button == MouseButtons.Right || e.Button == MouseButtons.Left))
             {
                 //Если нажимается правая кнопка на элемент пользователя, который не используется,
